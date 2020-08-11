@@ -14,11 +14,7 @@
     "callToActionText": "Discover",
     "textPosition": "center"
   }
-},
-
-"rich-text#delete": {
-  "props": {
-    "text": "I'll be deleted soon"
-  }
 }
+
+
 }
