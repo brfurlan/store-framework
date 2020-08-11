@@ -1,9 +1,8 @@
 {
-"flex-layout.col":{
+"flex-layout.row":{
   "children": [
     "info-card#rethink",
-    "image#electronics",
-    "image#major-appliance"
+    "flex-layout.col"
   ]
 },
 
@@ -15,6 +14,12 @@
     "callToActionText": "Discover",
     "textPosition": "center"
   }
+},
+"flex-layout.col":{
+  "children": [
+    "image#electronics",
+    "image#major-appliance"
+  ]
 },
 "image#electronics": {
   "props": {
