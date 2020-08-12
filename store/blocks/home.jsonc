@@ -26,8 +26,9 @@
   
   "image#mobile": {
     "props": {
+    "image":{
       "src": "https://appliancetheme.vteximg.com.br/arquivos/Responsive-Image-Mobile.jpg?q=1",
-      "maxWidth": 100,
+      "maxWidth": 100},
       "link": {
         "url": "/small-appliances/coffee-makers"
       } ,
