@@ -60,8 +60,8 @@
   },
   "sku-selector":{
     "props": {
-      "showValueForVariation": "none",
-      "visibility": "always",
+      "initialSelection": "empty",
+      "showValueForvariation": "image",
       "showVariationsErrorMessage": true
 
     }
